@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+.vscode/
+*.log
+
+# Local source/duplicate image exports not used by the final website.
+Image/
+assets/images/logo-rinjani.jpg
+assets/images/profile-uliya.png
